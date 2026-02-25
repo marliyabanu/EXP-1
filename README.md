@@ -69,7 +69,15 @@ a.   KVL:
 
 b.  KCL:
 
-
+RECORD:
+![WhatsApp Image 2026-02-25 at 10 05 14 AM](https://github.com/user-attachments/assets/8cba9467-684b-4d34-9368-3658ebcbed90)
+![WhatsApp Image 2026-02-25 at 10 05 21 AM](https://github.com/user-attachments/assets/6db3fc8c-90b9-4390-a9dd-7ddedbe5d81d)
+![WhatsApp Image 2026-02-25 at 10 05 22 AM](https://github.com/user-attachments/assets/ba62d3be-e7ea-4d49-ac23-a71e3177f9d0)
+![WhatsApp Image 2026-02-25 at 10 05 22 AM (1)](https://github.com/user-attachments/assets/529a711d-0ab5-4be2-895f-8787ac527be8)
+![WhatsApp Image 2026-02-25 at 10 05 23 AM](https://github.com/user-attachments/assets/e73bca17-9f34-4b78-b3e8-b1f0f5b57906)
+![WhatsApp Image 2026-02-25 at 10 05 22 AM (1)](https://github.com/user-attachments/assets/20324e10-6541-4d91-8c02-dd2c1af73b9c)
+![WhatsApp Image 2026-02-25 at 10 05 23 AM (1)](https://github.com/user-attachments/assets/59df9783-2c86-4c2d-9e9e-d2b26c7d1dad)
+![WhatsApp Image 2026-02-25 at 10 05 24 AM](https://github.com/user-attachments/assets/a33e31f8-4e77-4b3b-887c-5922bc47f712)
 
 RESULT:
 
